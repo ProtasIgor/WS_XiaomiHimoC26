@@ -4,7 +4,7 @@
 
 ## Open in browser
 
-[Xiaomi Himo C26](https://protasigor.github.io/XiaomiHimoC26)
+[Xiaomi Himo C26](https://protasigor.github.io/WS_XiaomiHimoC26)
 
 ## Layout
 
